@@ -18,6 +18,15 @@
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/298549
 ##http://45.129.133.15:8080/3f6d5b2f/4b60123137/298549
 
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:0 tvg-id="MNCSports.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQROWXHKHBvEWYvwDQPQmQhY4_UvfsgFUhoGw&usqp=CAU" group-title="SPORT",SPORTSTAR 4(OTT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
+https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+
 #EXTINF:0 tvg-id="IndoiarIDFHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx0syEHE7DbzWTfL2g1UvYAnECr7BNrDy57Q&usqp=CAU" group-title="BRI LIGA 1",INDOSIAR  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/162138
@@ -92,7 +101,7 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/162138
 ##http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298549
 
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="SPORTS LIVE",BRI 4
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/298549
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/162138
 
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="SPORTS LIVE",BRI 5
 http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/298549
@@ -784,6 +793,22 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3888)/index.m3
 
 #EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="Sports",Ongis TV
 https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN 1" tvg-logo="https://i.ibb.co/n6V5V6C/tsn-1-ca.png" group-title="Sports",TSN 1
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21006
+
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN 2" tvg-logo="https://i.ibb.co/4p1PbSh/tsn-2-ca.png" group-title="Sports",TSN 2
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/181852
+
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN 3" tvg-logo="https://i.ibb.co/BZbQYV5/tsn-3-ca.png" group-title="Sports",TSN 3
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/181853
+
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN 4" tvg-logo="https://i.ibb.co/4W7z5m9/tsn-4-ca.png" group-title="Sports",TSN 4
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21003
+
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN 5" tvg-logo="https://i.ibb.co/Bq2cfRc/tsn-5-ca.png" group-title="Sports",TSN 5
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21002
+
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="AstroSupersport" tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="Sports",Astro Supersport 1
@@ -807,12 +832,6 @@ https://kusnadipepenk.github.io/ntn/asp3.m3u8
 #EXTINF:-1 tvg-id="AstroSupersport4" tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="Sports",Astro Supersport 4
 https://kusnadipepenk.github.io/ntn/asp4.m3u8
 ##https://webudit.cdnhks.lol/lb/premium126/index.m3u8
-
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="AstroSupersport5" tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="Sports",Astro Supersport 5
-https://kusnadipepenk.github.io/ntn/asp5.m3u8
-##https://webudit.cdnhks.lol/lb/premium43/index.m3u8
 
 #EXTINF:-1  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv1.png" group-title="Sports",Sporttv 1
 https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
@@ -915,38 +934,11 @@ http://assista.pro:80/0333686557/Vilamariante1/130507
 http://assista.pro:80/0333686557/Vilamariante1/130509
 #EXTINF:-1 group-title="Sports",DAZN 5
 http://assista.pro:80/0333686557/Vilamariante1/130510
-#EXTINF:-1 group-title="Sports",DAZN 6
-http://assista.pro:80/0333686557/Vilamariante1/130511
-#EXTINF:-1group-title="Sports",DAZN 7
-http://assista.pro:80/0333686557/Vilamariante1/130512
-#EXTINF:-1 group-title="Sports",DAZN 8
-http://assista.pro:80/0333686557/Vilamariante1/130513
 #EXTINF:-1 group-title="Sports",DE DAZN 1
 http://assista.pro:80/0333686557/Vilamariante1/285071
 #EXTINF:-1 group-title="Sports",DE DAZN 2
 http://assista.pro:80/0333686557/Vilamariante1/285072
-#EXTINF:-1 group-title="Sports",IT DAZN 1
-http://ae2.aatvbox.club:8880/12mk160078/31623992/28415
-#EXTINF:-1 group-title="Sports",ES DAZN 1 
-http://assista.pro:80/0333686557/Vilamariante1/284984
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT6cvFpkxs-56KdzsuVQSf9MR7SfhwdHGWTA&usqp=CAU" group-title="Sports",FOX SPORT
-https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGT62seMX8WkTotuetFE9h6QUhuklNBbHyBQ&usqp=CAU" group-title="Sports",FOX SPORT 2
-https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCd7UvOnIlL9uu_y9luBnTQtB4G0f-jSvNyQ&usqp=CAU" group-title="Sports",FOX SPORT 3
-https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
-#EXTINF:-1 group-title="Sports",BeIN Sport ENG 1
-http://ae2.aatvbox.club:8880/12mk160078/31623992/2130
-#EXTINF:-1 group-title="Sports",BeIN Sport ENG 2
-http://ae2.aatvbox.club:8880/12mk160078/31623992/2129
-#EXTINF:-1 group-title="Sports",BeIN Sport ENG 3
-http://ae2.aatvbox.club:8880/12mk160078/31623992/2123
-#EXTINF:-1 tvg-id="Digi Sport 1 RO" tvg-name="ro:digi sport 1" group-title="Sports",DIGI SPORT 1
-https://skywatch.club:8443/Z94hansna4Zta2V/DvA3dDqJnC2ke/36301
-#EXTINF:-1 group-title="Sports",DIGI SPORT 2
-http://ae2.aatvbox.club:8880/12mk160078/31623992/31332
-#EXTINF:-1 tvg-id="Digi Sport 3 RO" tvg-name="ro:digi sports 3" group-title="Sports",DIGI SPORTS 3
-https://skywatch.club:8443/Z94hansna4Zta2V/DvA3dDqJnC2ke/36302
+
 #EXTINF:-1 group-title="Sports",Sport TV +
 http://assista.pro:80/0333686557/Vilamariante1/284956
 #EXTINF:-1 group-title="Sports",Sport TV 1
@@ -961,24 +953,6 @@ http://assista.pro:80/0333686557/Vilamariante1/284960
 http://assista.pro:80/0333686557/Vilamariante1/284961
 #EXTINF:-1 group-title="Sports",Sport TV 6
 http://assista.pro:80/0333686557/Vilamariante1/284962
-#EXTINF:-1 group-title="Sports",CANAL+ SPORT 2
-http://ae2.aatvbox.club:8880/12mk160078/31623992/28207
-#EXTINF:-1 group-title="Sports",CANAL+ SPORT 1
-http://ae2.aatvbox.club:8880/12mk160078/31623992/26583
-#EXTINF:-1 group-title="Sports",CANAL+ SPORT 2
-http://ae2.aatvbox.club:8880/12mk160078/31623992/26582
-#EXTINF:-1 group-title="Sports",CANAL+ SPORT 3
-http://ae2.aatvbox.club:8880/12mk160078/31623992/26581
-#EXTINF:-1 group-title="Sports",CANAL+ SPORT 4
-http://ae2.aatvbox.club:8880/12mk160078/31623992/26577
-#EXTINF:-1 group-title="Sports",CANAL+ SPORT 5
-http://ae2.aatvbox.club:8880/12mk160078/31623992/26576
-#EXTINF:-1 group-title="Sports",SuperSport Football
-http://ae2.aatvbox.club:8880/12mk160078/31623992/60791
-#EXTINF:-1 group-title="Sports",SuperSport Premier League
-http://ae2.aatvbox.club:8880/12mk160078/31623992/60798
-#EXTINF:-1 group-title="Sports",SuperSport La Liga
-http://ae2.aatvbox.club:8880/12mk160078/31623992/60794
 
 ###########################################################################################################
 ##################  LIFESTYLE  ##################################################################
@@ -1012,7 +986,7 @@ http://210.210.155.37/x6bnqe/s/s35/index.m3u8
 ######################################################################################################################################################
 #############################  KNOWLEDGE  #####################################################################################################
 
-#EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="KNOWLEDGEL",Ongis TV
+#EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="KNOWLEDGE",Ongis TV
 https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_204.png" group-title="KNOWLEDGE",NATIONAL GEOGRAPHIC WILD
@@ -1192,41 +1166,116 @@ https://github.com/OngisMbois/VOD/raw/main/Zhazam2.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="SPORT PREMIUM",Ongis TV
 https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
+#EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-logo="https://i.imgur.com/fA1VMU6.png" group-title="SPORT PREMIUM",beIN SPORTS English 1
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+http://webudit.cdnhks.lol/lb/premium61/index.m3u8 
+
+#EXTINF:-1 tvg-id="beINSportsEnglish2.qa" tvg-logo="https://i.imgur.com/CuTvIIo.png" group-title="SPORT PREMIUM",beIN SPORTS English 2
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+http://webudit.cdnhks.lol/lb/premium90/index.m3u8 
+
+#EXTINF:-1 tvg-id="beINSportsEnglish3.qa" tvg-logo="https://i.imgur.com/qUfw7db.png" group-title="SPORT PREMIUM",beIN SPORTS English 3
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+http://webudit.cdnhks.lol/lb/premium46/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="SPORT PREMIUM",beIN SPORTS PREMIUM 1
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36 
+http://webudit.cdnhks.lol/lb/premium98/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="SPORT PREMIUM",beIN SPORTS PREMIUM 2
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36 
+http://webudit.cdnhks.lol/lb/premium99/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="SPORT PREMIUM",beIN SPORTS PREMIUM 3
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36 
+http://webudit.cdnhks.lol/lb/premium100/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PsL4AzP.png" group-title="SPORT PREMIUM", beIN SPORTS XTRA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="beINSportsXtraenEspanol.us" group-title="SPORT PREMIUM" tvg-logo="https://i.imgur.com/6hQkqEL.png", beIN SPORTS XTRA ñ
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="" tvg-name="direct" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI73EjCxKaTppmuykfqgBIXkf57l4FOj1RtQ&usqp=CAU" group-title="SPORT PREMIUM",DirecTv Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/298357
+#EXTINF:0 tvg-id="" tvg-name="direct2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI73EjCxKaTppmuykfqgBIXkf57l4FOj1RtQ&usqp=CAU" group-title="SPORT PREMIUM",DirecTV Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
+http://37.49.229.56:8080/kingtveuex/lAEPMRIE4jqjMamv/298358
+
+#EXTINF:0 tvg-id="" tvg-name="ssc1" tvg-logo="https://yt3.googleusercontent.com/7KCyLUN6LidKfNfN6KozO_ZwaF-g21xPFLO0BDaUYsWWeY2QVhKB_qJhHw4jvwUQkg-6GXw1qg=s900-c-k-c0x00ffffff-no-rj" group-title="SPORT PREMIUM",SSC 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/280132
+#EXTINF:0 tvg-id="" tvg-name="ssc2" tvg-logo="https://yt3.googleusercontent.com/7KCyLUN6LidKfNfN6KozO_ZwaF-g21xPFLO0BDaUYsWWeY2QVhKB_qJhHw4jvwUQkg-6GXw1qg=s900-c-k-c0x00ffffff-no-rj" group-title="SPORT PREMIUM",SSC 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/280137
+#EXTINF:0 tvg-id="" tvg-name="ss3" tvg-logo="https://yt3.googleusercontent.com/7KCyLUN6LidKfNfN6KozO_ZwaF-g21xPFLO0BDaUYsWWeY2QVhKB_qJhHw4jvwUQkg-6GXw1qg=s900-c-k-c0x00ffffff-no-rj" group-title="SPORT PREMIUM",SSC 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/280134
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ELEVEN_SPORTS.png" group-title="SPORT PREMIUM",ELEVEN SPORTS 1
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/347
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ELEVEN_SPORTS.png" group-title="SPORT PREMIUM",ELEVEN SPORTS 2
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/3643
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ELEVEN_SPORTS.png" group-title="SPORT PREMIUM",ELEVEN SPORTS 3
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/3644
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ELEVEN_SPORTS.png" group-title="SPORT PREMIUM",ELEVEN SPORTS 4
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/3645
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORT PREMIUM",CANAL+ SPORT 1
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/69426
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORT PREMIUM",CANAL+ SPORT 2
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/343
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORT PREMIUM",CANAL+ SPORT 3
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/33580
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORT PREMIUM",CANAL+ SPORT 4
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/78322
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hWo7Ba4.png" group-title="SPORT PREMIUM", SONY SPORTS TEN 1
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W96KVqu.png" group-title="SPORT PREMIUM", SONY SPORTS TEN 2
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vG19HxD.png" group-title="SPORT PREMIUM", SONY SPORTS TEN 3
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+
+#EXTINF:-1 group-title="SPORT PREMIUM" tvg-logo="https://i.imgur.com/dVRMHM4.png", SONY SPORTS TEN 4 
+https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+
+#EXTINF:-1 group-title="SPORT PREMIUM" tvg-logo="https://i.imgur.com/40BbQUd.png", SONY SPORTS TEN 5 
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 
 #EXTINF:0 tvg-id="AstroSuperSport.my" tvg-name="astro supersport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT PREMIUM",Astro SuperSport
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/146068
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/146068
 #EXTINF:0 tvg-id="AstroSuperSport2.my" tvg-name="astro supersport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT PREMIUM",Astro SuperSport 2
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/157556
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/157556
 #EXTINF:0 tvg-id="AstroSuperSport3.my" tvg-name="astro supersport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT PREMIUM",Astro SuperSport 3
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/157557
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/157557
 #EXTINF:0 tvg-id="AstroSuperSport4.my" tvg-name="astro supersport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT PREMIUM",Astro SuperSport 4
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/157558
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/157558
 #EXTINF:0 tvg-id="AstroSuperSport5.my" tvg-name="astro supersport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT PREMIUM",Astro SuperSport 5
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/287792
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Polsat-Sport-Extra-HD.jpg" group-title="SPORT PREMIUM",polsat Sport Extra
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/353
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Polsat_sport_fight-1.png" group-title="SPORT PREMIUM",polsat Sport FIGHT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/26592
-#EXTINF:-0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Polsat_Sport_Premium_1_Poziome_2021.svg/2560px-Polsat_Sport_Premium_1_Poziome_2021.svg.png" group-title="SPORT PREMIUM",polsat Sport Premium 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/23199
-#EXTINF:-0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ48X-ntU-M8tLOArBekuCch3eq_hcX64CTg&usqp=CAU" group-title="SPORT PREMIUM",polsat Sport Premium 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/29607
-#EXTINF:-0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Polsat_Sport_Premium_3_PPV_Poziome_2021.svg/2560px-Polsat_Sport_Premium_3_PPV_Poziome_2021.svg.png" group-title="SPORT PREMIUM",polsat Sport Premium 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/147031
-#EXTINF:-0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Polsat_Sport_Premium_4_PPV_Poziome_2021.svg/2560px-Polsat_Sport_Premium_4_PPV_Poziome_2021.svg.png" group-title="SPORT PREMIUM",polsat Sport Premium 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/147034
-#EXTINF:-0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Polsat_Sport_Premium_5_PPV_Poziome_2021.svg/1024px-Polsat_Sport_Premium_5_PPV_Poziome_2021.svg.png?20210819215508" group-title="SPORT PREMIUM",polsat Sport Premium 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/147035
-#EXTINF:-0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Polsat_Sport_Premium_6_PPV_Poziome_2021.svg/1024px-Polsat_Sport_Premium_6_PPV_Poziome_2021.svg.png?20210819215535" group-title="SPORT PREMIUM",polsat Sport Premium 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/147036
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/287792
+#EXTINF:1 tvg-id="TruePremierFootball1.th" tvg-logo="https://i.imgur.com/goTVVel.png" group-title="SPORT PREMIUM",TRUE PREMIER FOOTBALL 1
+http://shareext@tvt3.xyz/play/live.php?mac=10:27:be:05:82:d6&stream=115757&extension=m3u8&play_token=shareext@truePremier1TH.m3u8
+
+#EXTINF:1 tvg-id="TruePremierFootball2.th" tvg-logo="https://i.imgur.com/EodqrAZ.png" group-title="SPORT PREMIUM",TRUE PREMIER FOOTBALL 2
+http://shareext@tvt3.xyz/play/live.php?mac=10:27:be:05:82:d6&stream=115508&extension=m3u8&play_token=shareext@truePremier2Eng.m3u8
+
+#EXTINF:1 tvg-id="TruePremierFootball3.th" tvg-logo="https://i.imgur.com/0PqRci8.png" group-title="SPORT PREMIUM",TRUE PREMIER FOOTBALL 3
+http://shareext@tvt3.xyz/play/live.php?mac=10:27:be:05:82:d6&stream=115511&extension=m3u8&play_token=shareext@truePremier3Eng.m3u8
+
+#EXTINF:1 tvg-id="TruePremierFootball4.th" tvg-logo="https://i.imgur.com/IuurqFv.png" group-title="SPORT PREMIUM",TRUE PREMIER FOOTBALL 4
+http://shareext@tvt3.xyz/play/live.php?mac=10:27:be:05:82:d6&stream=115768&extension=m3u8&play_token=shareext@truePremier4Eng.m3u8
+
+#EXTINF:1 tvg-id="TruePremierFootball5.th" tvg-logo="https://i.imgur.com/xkqzy95.png" group-title="SPORT PREMIUM",TRUE PREMIER FOOTBALL 5
+http://shareext@tvt3.xyz/play/live.php?mac=10:27:be:05:82:d6&stream=115515&extension=m3u8&play_token=shareext@truePremier4.m3u8
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/e0ca9c22b972add893fdad34af4255bc.png" group-title="MALAYSIA", Animax
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/157486
