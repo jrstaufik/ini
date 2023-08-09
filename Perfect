@@ -282,7 +282,8 @@ https://github.com/thefirefox12537/streams/raw/master/esceteve_2.m3u8
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="NASIONAL",INDOSIAR
-https://github.com/thefirefox12537/streams/raw/master/indosiar_2.m3u8
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/162138
+##https://github.com/thefirefox12537/streams/raw/master/indosiar_2.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="NASIONAL",INDOSIAR
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
@@ -405,8 +406,7 @@ http://210.210.155.37/uq2663/h/h192/index.m3u8
 http://210.210.155.37/uq2663/h/h194/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Flix_Cinema_Logo.png" group-title="Movies",Flik 
-https://github.com/thefirefox12537/streams/raw/4cbe7c3f1a2b7ffeb19b0e54f04c845ac60db3a8/flik_playback.m3u8
-##http://tvnid.wapgem.com/player/flix.m3u8
+http://iptvid.my.id/hmm/Ben/spy123456/flik.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353271-.png",IMC
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/264769
